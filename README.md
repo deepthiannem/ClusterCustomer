@@ -27,18 +27,28 @@ The project encompasses various data analysis and clustering techniques, structu
 
 ### Data Exploration
 
-Univariate Analysis: Examines single variables to summarize and find patterns in the data.
+#### Univariate Analysis
 
-Bivariate Analysis: Investigates the relationship between two variables, providing insights into correlations and interactions.
+Examines single variables to summarize and find patterns in the data.
+
+#### Bivariate Analysis
+
+Investigates the relationship between two variables, providing insights into correlations and interactions.
 
 
 ### Clustering Analysis
 
-Univariate Clustering: Clustering based on single variables to understand the distribution and grouping within individual factors.
+#### Univariate Clustering
 
-Bivariate Clustering: Involves two variables, analyzing the clusters that form based on the interaction between these variables.
+Clustering based on single variables to understand the distribution and grouping within individual factors.
 
-Multivariate Clustering: A comprehensive approach considering multiple variables simultaneously to identify more complex patterns and relationships.
+#### Bivariate Clustering
+
+Involves two variables, analyzing the clusters that form based on the interaction between these variables.
+
+#### Multivariate Clustering
+
+A comprehensive approach considering multiple variables simultaneously to identify more complex patterns and relationships.
 
 
 ## Code and Visualizations
@@ -56,4 +66,4 @@ Run the cells in sequence to replicate the analysis and view the visualizations.
 
 ## Conclusion
 
-Through this project, distinct customer segments were identified based on various attributes and behaviors. These insights can assist in tailoring marketing strategies to specific customer groups, enhancing customer satisfaction and loyalty.
+Our analysis reveals distinct customer segments within the mall's clientele, characterized by specific patterns in spending behavior, income levels, and other attributes. These findings can inform targeted marketing campaigns and strategic business decisions aimed at enhancing customer satisfaction and loyalty.
