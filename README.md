@@ -51,16 +51,14 @@ Involves two variables, analyzing the clusters that form based on the interactio
 A comprehensive approach considering multiple variables simultaneously to identify more complex patterns and relationships.
 
 
-## Code and Visualizations
-
-The analysis is conducted using Python, with code and corresponding visualizations embedded within a Jupyter notebook. The notebook is structured to guide the reader through each step of the analysis, with comments and explanations accompanying the code. Visualizations include histograms, scatter plots, and cluster diagrams, providing intuitive insights into the data and the results of the clustering analysis.
-
-
 ## How to Use
 
 Clone the repository or download the Jupyter notebook file.
+
 Ensure that the required Python libraries are installed, including pandas, numpy, matplotlib, seaborn, and scikit-learn.
+
 Open the notebook in a Jupyter environment.
+
 Run the cells in sequence to replicate the analysis and view the visualizations.
 
 
